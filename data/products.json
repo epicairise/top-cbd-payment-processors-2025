@@ -1,0 +1,202 @@
+[
+  {
+    "position": 1,
+    "name": "PaymentCloud",
+    "slug": "paymentcloud",
+    "description": "High-risk payment setup for CBD, vape, and supplement brands with recurring billing and fraud tools.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/paymentcloud.jpg",
+    "target_audience_match": "Perfect for frustrated founders switching from Stripe or PayPal who need real billing and fast approval.",
+    "price": "From $25/mo + fees",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Easy Pay Direct",
+    "slug": "easy-pay-direct",
+    "description": "Trusted by high-risk industries, with Shopify/WooCommerce support and compliance-first billing.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/easy-pay-direct.jpg",
+    "target_audience_match": "Ideal for stressed CBD founders needing stable WooCommerce integration and proactive legal support.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "PayKings",
+    "slug": "paykings",
+    "description": "CBD-specialized processor with recurring billing, 100+ bank partners, and WooCommerce/Chargebee support.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/paykings.jpg",
+    "target_audience_match": "Great for global CBD brands tired of platform limitations and looking to scale subscriptions.",
+    "price": "From 4.95% + gateway fees",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Soar Payments",
+    "slug": "soar-payments",
+    "description": "Fast approval and transparent pricing for CBD merchants with subscription billing and WooCommerce plugins.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/soarpayments.jpg",
+    "target_audience_match": "Perfect for small, overwhelmed CBD startups wanting a quick, compliant launch.",
+    "price": "From $29/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "NMI + Organic Payment Gateways",
+    "slug": "nmi-organic-payment",
+    "description": "CBD-focused gateway stack with subscription billing, API access, and Shopify/Chargebee plugins.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nmi-cbd.jpg",
+    "target_audience_match": "Great for hands-on brands needing full-stack checkout control without vendor lock-in.",
+    "price": "From $29/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 6,
+    "name": "Durango Merchant Services",
+    "slug": "durango-merchant-services",
+    "description": "Veteran high-risk gateway with CBD-friendly underwriting and recurring payment support.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/durango.jpg",
+    "target_audience_match": "Ideal for high-volume CBD merchants needing stable terms and predictable underwriting.",
+    "price": "Custom quote",
+    "data-link": "pending"
+  },
+  {
+    "position": 7,
+    "name": "DigiPay Solutions",
+    "slug": "digipay-solutions",
+    "description": "Fraud-resistant gateway for CBD and supplement brands with recurring support and stable integrations.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/digipay.jpg",
+    "target_audience_match": "Perfect for fast-scaling DTC teams worried about chargebacks and transaction fraud.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 8,
+    "name": "Instabill",
+    "slug": "instabill",
+    "description": "CBD and supplement payment processor with global merchant account access and recurring billing options.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/instabill.jpg",
+    "target_audience_match": "For brands rejected by U.S. processors who need reliable international accounts.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 9,
+    "name": "Organic Payment Gateways",
+    "slug": "organic-payment-gateways",
+    "description": "Stripe alternative for CBD brands with recurring billing and Shopify, Wix, and WooCommerce support.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/organic-payment-gateways.jpg",
+    "target_audience_match": "Perfect for brands burned by Stripe shutdowns and needing stable CBD billing.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 10,
+    "name": "Inovio",
+    "slug": "inovio",
+    "description": "PCI-compliant CBD payment gateway with fraud filters, hosted checkout, and recurring support.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/inovio.jpg",
+    "target_audience_match": "Great for lean teams needing low-code compliance and fraud protection baked in.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 11,
+    "name": "GreenLeaf Payment Solutions",
+    "slug": "greenleaf-payment",
+    "description": "CBD-specialized provider with full subscription stack and Shopify/WooCommerce plugins.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/greenleaf.jpg",
+    "target_audience_match": "Perfect for hybrid retail/DTC brands juggling storefronts and online CBD billing.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 12,
+    "name": "Zen Payments",
+    "slug": "zen-payments",
+    "description": "High-risk payment processor built for CBD with recurring billing and secure online checkout.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/zen-payments.jpg",
+    "target_audience_match": "Ideal for teams needing white-glove support for recurring CBD subscriptions.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 13,
+    "name": "Square for CBD (via Green Merchant)",
+    "slug": "square-for-cbd",
+    "description": "Official Square gateway for CBD with POS and recurring invoice logic.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/square-cbd.jpg",
+    "target_audience_match": "Great for new CBD shops craving Square’s interface with high-risk approval built in.",
+    "price": "From 3.9% + 30¢ per transaction",
+    "data-link": "pending"
+  },
+  {
+    "position": 14,
+    "name": "eMerchant Broker",
+    "slug": "emerchant-broker",
+    "description": "High-risk merchant account with CBD subscription support, fraud protection, and custom setup.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/emerchant-broker.jpg",
+    "target_audience_match": "Perfect for CBD brands needing elite fraud tools and personalized onboarding.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 15,
+    "name": "Pinwheel Pay",
+    "slug": "pinwheel-pay",
+    "description": "CBD gateway for international and multi-currency brands, with subscriptions and fraud tools.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/pinwheelpay.jpg",
+    "target_audience_match": "Best for global CBD sellers with complex billing setups across multiple markets.",
+    "price": "From 4.5% per transaction",
+    "data-link": "pending"
+  },
+  {
+    "position": 16,
+    "name": "Greenbox POS",
+    "slug": "greenbox-pos",
+    "description": "Cannabis/CBD-native POS and gateway with subscription billing, compliance tools, and stable onboarding.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/greenbox.jpg",
+    "target_audience_match": "Great for dispensary-style CBD setups balancing DTC and in-store billing needs.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 17,
+    "name": "Authorize.Net + High-Risk Merchant",
+    "slug": "authorize-net-high-risk",
+    "description": "Popular gateway paired with high-risk approval for CBD — used with PaymentCloud or National Processing.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/authorize-net.jpg",
+    "target_audience_match": "For dev-savvy teams building custom billing stacks with high-risk compliance.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 18,
+    "name": "Centurion Payment Services",
+    "slug": "centurion-payment-services",
+    "description": "CBD-friendly processor with recurring billing and multi-platform compatibility.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/centurion.jpg",
+    "target_audience_match": "Solid for CBD brands prioritizing billing reliability across various platforms.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 19,
+    "name": "National Processing",
+    "slug": "national-processing",
+    "description": "CBD subscription support via high-risk merchant onboarding and Authorize.Net compatibility.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/national-processing.jpg",
+    "target_audience_match": "Great for mid-size CBD teams needing known platforms and fewer surprises.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 20,
+    "name": "Shift Processing",
+    "slug": "shift-processing",
+    "description": "Subscription-capable CBD processor with basic integrations and fraud control.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/shift-processing.jpg",
+    "target_audience_match": "Ideal for bootstrapped CBD founders who need to launch billing fast and affordably.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  }
+]
